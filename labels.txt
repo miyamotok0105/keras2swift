@@ -1,0 +1,9 @@
+Baskerville
+bodoni
+Futura.png
+Garamond
+Gill Sans
+Helvetica
+Lucida
+optima
+palatino
